@@ -107,11 +107,6 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 	color: #FFF;
 }
 
-/* ~~ janan ~~ */
-/* ~~ janan ~~ */
-/* ~~ janan ~~ */
-/* ~~ janan ~~ */
-/* ~~ janan ~~ */
 /* ~~ The footer ~~ */
 footer {
 	padding: 10px 0;
